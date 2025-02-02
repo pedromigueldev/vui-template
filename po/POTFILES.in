@@ -1,0 +1,7 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.pedromigueldev.desktop.in
+data/io.github.pedromigueldev.metainfo.xml.in
+data/io.github.pedromigueldev.gschema.xml
+src/main.vala
+src/window.vala

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=vui-template
+Exec=vui-template
+Icon=io.github.pedromigueldev
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
